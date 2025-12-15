@@ -1,5 +1,15 @@
-# 💫 About Me:
-🔭 I’m currently working as a Python Backend Developer<br>👯 I’m looking to collaborate on web development<br>🌱 I’m currently learning React.js<br>💬 Ask me about anything<br>
+# 💫 About Me
+
+Hello! I’m **Maruf Hossain**.  
+I am a student of **Computer Science and Engineering (CSE)**.  
+Currently, I am studying for my **Bachelor’s degree** at **Green University of Bangladesh**.  
+I am passionate about learning new technologies and building practical software projects.
+
+🔭 I’m currently working as a **Python Backend Developer**, mainly using **Django**  
+👯 I’m looking to collaborate on **web development** and **academic projects**  
+🌱 I’m currently learning **React.js** to improve my frontend skills  
+💡 I enjoy building projects related to **web applications**, **data mining**, and **software systems**  
+💬 Feel free to ask me about **Python**, **Django**, **basic React**, or **university projects**
 
 ---
 
