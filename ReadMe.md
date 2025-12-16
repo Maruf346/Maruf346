@@ -92,6 +92,7 @@ I am passionate about learning new technologies and building practical software 
 ### 🎨 Design & Productivity
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
 ---
 
@@ -103,6 +104,7 @@ I am passionate about learning new technologies and building practical software 
 ---
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=maruf346&theme=default&no-frame=false&no-bg=true&margin-w=4)
+
 ---
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
