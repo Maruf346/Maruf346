@@ -6,7 +6,7 @@ Currently, I am studying for my **Bachelor’s degree** at **Green University of
 I am passionate about learning new technologies and building practical software projects.
 
 🔭 I’m currently working as a **Python Backend Developer**, mainly using **Django** @ **Sparktech Agency**     
-👯 I’m looking to collaborate on **web development** and **academic projects**  
+👯 I’m looking to collaborate on both **client** and **academic projects**  
 🌱 I’m currently learning **React.js** to improve my frontend skills  
 💡 I enjoy building projects related to **web applications**, **data mining**, **Machine Learning** and **software systems**  
 💬 Feel free to ask me about **Python**, **Django**, **basic React**, or **university projects**
