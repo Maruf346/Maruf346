@@ -18,7 +18,7 @@ I am passionate about learning new technologies and building practical software 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/marufhossain1110) 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2?style=flat-square&logo=Facebook&logoColor=white)](https://facebook.com/maruf318CSE) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/marufcse318) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000?style=flat-square&logo=YouTube&logoColor=white)](https://youtube.com/@@saatmishaali) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000?style=flat-square&logo=YouTube&logoColor=white)](https://youtube.com/@saatmishaali) 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:maruf.bshs@gmail.com) 
 
 ---
