@@ -2,7 +2,7 @@
 
 Hello! I’m **Maruf Hossain**.  
 I am a student of **Computer Science and Engineering (CSE)**.  
-Currently, I have graduated with my **Bachelor’s degree** at **Green University of Bangladesh**.  
+Recently, I graduated with my **Bachelor’s degree** from **Green University of Bangladesh**.      
 I am passionate about learning new technologies and building practical software projects.
 
 🔭 I’m currently working as a **Jr. Back-End Developer**, mainly using **Django** @**Sparktech Agency**     
