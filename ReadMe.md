@@ -9,7 +9,7 @@ I am passionate about learning new technologies and building practical software 
 👯 I’m looking to collaborate on both **client** and **academic projects**  
 🌱 I’m currently learning **React.js** to improve my frontend skills  
 💡 I enjoy building projects related to **web applications**, **data mining**, **Machine Learning** and **software systems**  
-💬 Feel free to ask me about **Python**, **Django**, **basic React**, or **university projects**
+💬 Feel free to ask me about **Python**, **Django**, **basic React**, or **university projects.**
 
 ---
 
